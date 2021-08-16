@@ -1,2 +1,2 @@
-# weather-prediction-app
-A Raspberry pi weather prediction app.
+# weather-home-automation-system-app
+A Raspberry pi home automation system app.
